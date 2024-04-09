@@ -6,8 +6,8 @@ The goal of the game is to clear all the objectives (in the form of a rectangle 
 
 In order to clear an objective you'll have to bounce the ball with your mouse.
 
-To start the game simply import the java files to your preffered IDE and run the "GameBox.java" file and when the game window is
-opend press the "ENTER" key in your keyboard.
+To start the game simply import the java files to your preffered IDE and run the "GameBox.java" file, when the game window is
+opend press the "ENTER" key in your keyboard and have the time of your life!
 
  
 
